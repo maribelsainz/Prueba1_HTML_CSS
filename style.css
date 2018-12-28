@@ -3,14 +3,15 @@
 text-align: justify;
 }
 
-.blog {
+.nosotros {
   background-color: #21b1341c;
-  padding: 50px;
+  padding-bottom: : 50px;
 }
 
 .jumbotron {
   text-align: center;
   background-color: #21b1341c;
+  margin-top: 50px;
 }
 
 .caja2 {
@@ -24,4 +25,13 @@ footer {
 
 .info {
   margin-bottom: 50px;
+}
+
+.abajo {
+  margin-bottom: 50px;
+}
+
+.navbar-brand {
+  height: 20px;
+  width: 20px;
 }
